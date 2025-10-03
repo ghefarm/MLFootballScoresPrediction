@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLFootballScoresPrediction", "MLFootballScoresPrediction.csproj", "{A6A76C1B-BFBB-4A28-893C-804144F68DB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6A76C1B-BFBB-4A28-893C-804144F68DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A76C1B-BFBB-4A28-893C-804144F68DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A76C1B-BFBB-4A28-893C-804144F68DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A76C1B-BFBB-4A28-893C-804144F68DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39484F51-44A6-4F83-ABFB-44436CEC0D1E}
+	EndGlobalSection
+EndGlobal
